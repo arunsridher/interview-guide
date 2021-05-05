@@ -76,3 +76,22 @@ nav a {
 .topic-info {
   color: #fff;
 }
+
+.topic-questions {
+  width: 85%;
+  margin: auto;
+  margin-top: 35px;
+}
+.topic-questions a {
+  color: #fafafa;
+  text-decoration: none;
+}
+.company-info {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.company-info p {
+  margin: 10px 35px;
+  font-size: 0.85rem;
+}
